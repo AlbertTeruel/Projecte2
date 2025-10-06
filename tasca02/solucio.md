@@ -129,3 +129,6 @@ El **SAI Riello NetPower NPW2000** és l'opció més adequada per TecnoGestió S
 L'autonomia de 26 minuts garanteix temps suficient per completar treballs i realitzar un apagat segur de tots els equips.  
 
 La decisió de no connectar la impressora làser al SAI és tècnicament correcta i econòmicament eficient, seguint les recomanacions dels fabricants capdavanters del sector.
+
+
+[Torna](../)
