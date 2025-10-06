@@ -108,7 +108,7 @@ On:
 
 **Recomanació:** *Riello NetPower NPW2000*
 
-[Font d'alimentació](!img/font.png)
+[Font d'alimentació](!tasca02/img/font.png)
 
 **Motius de la selecció:**
 1. Potència suficient: 2000 VA amb marge del 86.6% permet futures ampliacions  
