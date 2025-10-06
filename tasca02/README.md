@@ -6,6 +6,6 @@ A causa de talls elèctrics freqüents, volen instal·lar un **SAI (Sistema d’
 
 Aquesta tasca consisteix a analitzar les necessitats de consum i autonomia, comparar models de SAI i escollir el més adequat per a l’empresa.
 
-[SolucioTasca02](solucio) 
+[SolucioTasca02](solucio.md) 
 
 [Torna](../)
