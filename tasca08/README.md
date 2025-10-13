@@ -1,8 +1,12 @@
-**T08: Assessorament de domini i hosting — Aplicacions web**  
-**Resum**  
-En aquesta tasca, treballareu en grups per assessorar **dos clients assignats** de la consultora EverPia en l’elecció del **domini i servei de hosting** més adequats per a la seva web.  
+# T08: Assessorament de domini i hosting
 
-Haureu de preparar una **proposta professional** en format **Markdown** i publicar-la al vostre **repositori de GitHub**. Aquesta feina servirà de base per al **Producte P03**, on presentareu la vostra recomanació davant del client.  
+## Resum
+La consultora **EverPia** ha rebut la petició de diversos clients que necessiten assessorament per escollir el **domini i servei de hosting** més adequats per a la seva web.  
+En aquesta tasca, treballareu **en grups** i tindreu assignats **dos clients** per elaborar una **proposta professional** amb comparatives i recomanacions tècniques.  
 
-L’objectiu és aprendre a **documentar, comparar i justificar** decisions tècniques sobre hosting i dominis segons les necessitats reals d’un projecte web.
+La documentació s’haurà de redactar en **format Markdown** i pujar al vostre **repositori de GitHub**.  
+Aquesta feina servirà com a base per al **Producte P03**, on presentareu la proposta davant del client.
 
+[SolucioTasca08](solucio.md)
+
+[Torna](../)
