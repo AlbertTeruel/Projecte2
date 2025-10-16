@@ -7,6 +7,6 @@ En aquesta tasca, treballareu **en grups** i tindreu assignats **dos clients** p
 La documentació s’haurà de redactar en **format Markdown** i pujar al vostre **repositori de GitHub**.  
 Aquesta feina servirà com a base per al **Producte P03**, on presentareu la proposta davant del client.
 
-[SolucioTasca08](solucio.md)
+[Solucio Tasca08](solucio.md)
 
 [Torna](../)
