@@ -94,3 +94,6 @@ https://linuxconfig.org/how-to-secure-grub-boot-loader-with-password
 https://docs.redhat.com/es/documentation/red_hat_enterprise_linux/8/html/managing_monitoring_and_updating_the_kernel/assembly_protecting-grub-with-a-password_managing-monitoring-and-updating-the-kernel  
 https://forum.zorin.com/t/howto-setup-grub-bootloader-password-zorin-os-17/33851  
 https://www.tecmint.com/password-protect-grub-in-linux/
+
+[Torna](../)
+
