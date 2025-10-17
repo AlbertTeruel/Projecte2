@@ -6,4 +6,5 @@ Treballareu sobre un **disc clonat en una màquina virtual** per evitar danyar l
 
 A més de recuperar l’accés, cal investigar **formes de reforçar la seguretat del sistema**, com protegir el GRUB amb contrasenya, per evitar que es pugui modificar fàcilment la configuració i les contrasenyes.
 
+[Solucio Tasca03](solucio03.md) 
 [Torna](../)
