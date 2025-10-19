@@ -144,11 +144,12 @@ llumsoevents.cat
 --- 
 
 ## **3. Comparativa de hostings**
-| Opció             | Preu anual | Punts forts                                   | Punts febles          |
-|-------------------|-------------|----------------------------------------------|------------------------|
-| Stackscale        | 180€        | 99,99% de disponibilitat, servers a Madrid   | Més car                |
-| Arsys Advanced    | 179€        | Molt professional, bon suport                | CDN apart              |
-| Webempresa Pro    | 84€         | Inclou CDN gratuït, bon preu                 | Disponibilitat menor   |
+| Proveïdor        | Espai       | Transferència     | Preu anual | Punts forts                                                                                                     | Punts febles                                                |
+|------------------|-------------|-------------------|-------------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Stackscale       | 25 GB SSD   | Fins a 40 Gbps    | 180 €       | SLA 99,99%, servidors a Madrid, alta potència per pics de trànsit, orientat a eCommerce i esdeveniments massius | Preu alt, no ideal per webs petites                         |
+| Arsys Advanced   | 60 GB SSD   | Il·limitada       | 179 €       | Transferència il·limitada, bona velocitat amb HTTP/2, seguretat avançada, suport tècnic 24/7, 250 comptes d’email | CDN no inclòs gratuïtament, plans més tècnics              |
+| Webempresa Pro   | 11 GB NVME  | Il·limitada       | 84 €        | Hosting optimitzat per WordPress, CDN Cloudflare integrat, còpies de seguretat automàtiques, SSL gratuït         | Uptime menor (99,9%), menys capacitat per tràfic molt alt   |
+
 
 
 ---
