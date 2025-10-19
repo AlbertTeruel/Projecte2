@@ -144,11 +144,12 @@ llumsoevents.cat
 --- 
 
 ## **3. Comparativa de hostings**
-| Proveïdor | Espai disc | Transferència | Preu | Pros | Contres |
-|-----------|------------|---------------|------|------|---------|
-| Kinsta |      Fins a 250 GB      |     Fins a 2.5M visites          |   A partir de 620 €   |    CDN integrat, SLA 99,9%, suport 24/7  |       Preu elevat  |
-| SiteGround|  Fins a 40 GB          |        Fins a 100.000 visites       |   A partir de 3,99 €   |    CDN inclòs, bon rendiment, suport en català  |      Limitat per a trànsit alt   |
-| HostEurope |     Fins a 100 GB       |    Fins a 1M visites           |   A partir de 5,99 €   |    CDN inclòs, SLA 99,9%, bon preu  |      Suport limitat en català   |
+| Opció             | Preu anual | Punts forts                                   | Punts febles          |
+|-------------------|-------------|----------------------------------------------|------------------------|
+| Stackscale        | 180€        | 99,99% de disponibilitat, servers a Madrid   | Més car                |
+| Arsys Advanced    | 179€        | Molt professional, bon suport                | CDN apart              |
+| Webempresa Pro    | 84€         | Inclou CDN gratuït, bon preu                 | Disponibilitat menor   |
+
 
 ---
 
@@ -161,9 +162,9 @@ llumsoevents.cat
 ---
 
 ## **5. Recomanació final**
-Hosting escollit: Kinsta
+Hosting escollit: Stackscale
 Domini recomanat: llumso.cat
-Justificació de la decisió: Kinsta ofereix un rendiment excepcional amb CDN integrat i SLA alt, ideal per a gestionar els pics de trànsit del festival. El domini llumso.cat és curt, artístic i reforça la identitat local del festival.
+Justificació de la decisió: Stackscale ofereix un rendiment excepcional amb CDN integrat i SLA alt, ideal per a gestionar els pics de trànsit del festival. El domini llumso.cat és curt, artístic i reforça la identitat local del festival.
 
 ---
 
@@ -171,7 +172,7 @@ Justificació de la decisió: Kinsta ofereix un rendiment excepcional amb CDN in
 #### Criteris decisius
 Rendiment del hosting, integració de CDN, SLA elevat i identitat del domini.
 
-#### Per què Kinsta és la millor opció per al client: 
+#### Per què Stackscale és la millor opció per al client: 
 
 La combinació de Kinsta com a proveïdor de hosting i el domini llumso.cat assegura una infraestructura robusta i una presència en línia coherent amb la identitat del festival.
 
